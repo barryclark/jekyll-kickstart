@@ -3,14 +3,157 @@
 #
 
 # Name of your site (displayed in the header)
-name: Your Name
+name: Infinity Works
+title: Infinity Works
 
 # Short bio or description (displayed in the header)
-description: Web Developer from Somewhere
+description: Company Blog
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+avatar: /images/infinityworks.png
 
+# Fixing build ...
+repository: infinityworks/engineering
+
+authors:
+  default:
+    display_name: Infinity Works
+    avatar: /images/infinityworks.png
+    web: https://www.infinityworks.com
+    web_short_name: infinityworks.com
+    twitter: InfinityWorks
+    github: infinityworksltd
+  james_hall:
+    display_name: James Hall
+    gravatar: 2f474625a223a9a376f69a54ba76c066
+    email: james.hall@infinityworks.com
+    web: https://www.thatsmejames.wordpress.com
+    web_short_name: thatsmejames.wordpress.com
+    linkedin: jameshall93
+    twitter: thatsmejamesh
+    github: jam-pot
+  ed_marshall:
+    display_name: Ed Marshall
+    gravatar: d9498b999415a2c54293061acc24637e
+    email: ed.marshall@infinityworks.com
+    web: https://www.infinityworks.com
+    web_short_name: infinityworks.com
+    linkedin: edward-marshall-9567b28
+    twitter: rucknar
+    github: rucknar
+  paul_lucas:
+    display_name: Paul Lucas
+    gravatar: d789a807efdb806b46174a57e7f5a78d
+    email: paul.lucas@infinityworks.com
+    web: https://www.infinityworks.com
+    web_short_name: infinityworks.com
+    linkedin: paul-lucas-3209203
+  ivor_caldwell:
+    display_name: Ivor Caldwell
+    gravatar: f84f7e176a2ffcb9010222f816b97547
+    email: ivor.caldwell@infinityworks.com
+    web: https://ivorcaldwell.com
+    web_short_name: ivorcaldwell.com
+    linkedin: ivor-caldwell-95930a6
+  flock3:
+    display_name: Thomas Gray
+    email: thomas.gray@infinityworks.com
+    gravatar: fe56378d73353f065bffb040dbbf4214
+    web: https://iamtgray.com
+    web_short_name: iamtgray.com
+    linkedin: topicus
+  jake_hall:
+    display_name: Jake Hall
+    email: jake.hall@infinityworks.com
+    web: https://www.infinityworks.com
+    web_short_name: infinityworks.com
+    gravatar: 050b8bed1e0d616a97ee14afd55ad078
+    linkedin: halljakea
+    twitter: florx
+  steven_harper:
+    display_name: Steven Harper
+    email: steven.harper@infinityworks.com
+    web: https://www.infinityworks.com
+    web_short_name: infinityworks.com
+    gravatar: f17510afa91ac6760a6362b49460f007
+    linkedin: stevenharperuk
+  richard_harper:
+    display_name: Richard Harper
+    email: richard.harper@infinityworks.com
+    web: https://www.infinityworks.com
+    web_short_name: infinityworks.com
+    gravatar: b372025c9a09ffa9b9de905fb01753e1
+    linkedin: richard-harper-uk
+  robvk:
+    display_name: Robert van Kooten
+    email: robert.vankooten@infinityworks.com
+    web: https://til.robvk.uk/
+    web_short_name: robvk.uk
+    gravatar: a71f4a55aabbaa77bf1c3e2e4e33e6c1
+    linkedin: robertvankootenuk
+  georgia_gage:
+    display_name: Georgia Gage
+    email: georgia.gage@infinityworks.com
+    web: https://www.infinityworks.com
+    web_short_name: infinityworks.com
+    gravatar: d2137733fa2a3550317712d237472b43
+    linkedin: georgia-gage
+  stein_fletcher:
+    display_name: Stein Fletcher
+    email: stein.fletcher@infinityworks.com
+    web: https://stein.wtf
+    web_short_name: stein.wtf
+    gravatar: b720c55560f2ca8a9d531bc3b48622c6
+    linkedin: steinfletcher
+  emily_birch:
+    display_name: Emily Birch
+    email: emily.birch@infinityworks.com
+    web: https://www.infinityworks.com
+    web_short_name: infinityworks.com
+    gravatar: 40b84e411c52561c79e704b29dd82a02
+    linkedin: emily-birch-a01b5190
+  ben_foster:
+    display_name: Ben Foster
+    email: ben.foster@infinityworks.com
+    web: https://www.infinityworks.com
+    web_short_name: infinityworks.com
+    gravatar: 1035367ebd95a5075a36a4bdb3e8361a
+    linkedin: ben-foster
+  sam_quayle:
+    display_name: Sam Quayle
+    email: sam.quayle@infinityworks.com
+    web: https://www.infinityworks.com
+    web_short_name: infinityworks.com
+    gravatar: d020f62245273dd85d8f7803591292e4
+    linkedin: sam-quayle-6a77a992
+  david_postle:
+    display_name: David Postle
+    email: david.postle@infinityworks.com
+    web: https://www.infinityworks.com
+    web_short_name: infinityworks.com
+    gravatar: 752ce630a50053249fa9d010f2eb5317
+    linkedin: david-postle-55aa624
+  toby_wilman:
+    display_name: Toby Wilman
+    email: toby.wilman@infinityworks.com
+    web: https://www.infinityworks.com
+    web_short_name: infinityworks.com
+    gravatar: 4198808fc92471bd483f7b67cb4870c9
+    linkedin: toby-wilman-ab385095
+  chris_empson:
+    display_name: Chris Empson
+    email: chris.empson@infinityworks.com
+    web: https://www.infinityworks.com
+    web_short_name: infinityworks.com
+    gravatar: a4b1d4138619247ab757c30a161d6217
+    linkedin: chris-empson-45881019
+  blongden:
+    display_name: Ben Longden
+    email: ben.longden@infinityworks.com
+    web: https://www.infinityworks.com
+    web_short_name: infinityworks.com
+    gravatar: 2e357a083c70d284a31c2ca200758e97
+    linkedin: blongden
 #
 # Flags below are optional
 #
@@ -21,12 +164,12 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: barryclark/jekyll-now
+  github: infinityworks
   instagram:
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: jekyllrb
+  twitter: InfinityWorks
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
@@ -37,17 +180,17 @@ footer-links:
 disqus:
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics:
+google_analytics: UA-83439332-1
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url:
+url: http://blog.infinityworks.com
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-baseurl: ""
+# baseurl: "http://blog.infinityworks.com/"
 
 #
 # !! You don't need to change any of the configuration flags below !!
@@ -73,7 +216,7 @@ sass:
   style: :expanded # You might prefer to minify using :compressed
 
 # Use the following plug-ins
-gems:
+plugins:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
 
